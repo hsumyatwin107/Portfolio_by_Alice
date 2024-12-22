@@ -1,4 +1,0 @@
-hello {{ name }},
-{% if age > 0 %}
-you are {{ age }} bn years old
-{% endif %}

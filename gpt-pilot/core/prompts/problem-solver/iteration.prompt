@@ -1,1 +1,0 @@
-{% extends "troubleshooter/iteration.prompt" %}
